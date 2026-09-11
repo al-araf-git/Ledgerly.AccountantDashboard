@@ -40,3 +40,6 @@ next-env.d.ts
 # local tooling caches
 *.tsbuildinfo
 /.sites-runtime/
+
+# local Sites hosting configuration
+/.openai/
