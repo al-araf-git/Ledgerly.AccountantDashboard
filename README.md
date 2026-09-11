@@ -2,6 +2,18 @@
 
 A responsive accounting SaaS interface built with React 19, TypeScript, Tailwind CSS 4, Recharts, and Vinext. Includes animated financial charts, mobile navigation, accessible dialogs, reduced-motion support, and a coherent teal / midnight visual system.
 
+## Showcase
+
+AI-styled promotional mockups based on Ledgerly, rather than exact application screenshots.
+
+![Ledgerly accounting dashboard](showcase/01-fiverr-cover.png)
+
+![Accounting features showcase](showcase/02-features-showcase.png)
+
+![Desktop, tablet, and mobile presentation](showcase/03-responsive-design.png)
+
+[Download the showcase image bundle](showcase/ledgerly-fiverr-showcase.zip)
+
 ## Run
 
 ```sh
@@ -42,3 +54,4 @@ Before production, implement authenticated organization-scoped APIs and durable 
 - `app/accounting.ts`: accounting rules, validation, sample data, exports.
 - `app/globals.css`: Tailwind theme and responsive styles.
 - `app/accounting.test.mjs`: financial logic checks.
+
